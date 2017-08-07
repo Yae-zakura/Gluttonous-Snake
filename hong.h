@@ -1,0 +1,14 @@
+#define HIGH 40
+#define WIDE 20
+#define up 1
+#define down 2
+#define left 3
+#define right 4
+#define SNAKEHEAD 'O'
+#define SNAKEBODY '*'
+#define SNAKEFOOD '@'
+#define POISON 'X' 
+#define MUP 'w'
+#define MDOWN 's'
+#define MRIGHT 'd'
+#define MLEFT 'a'
